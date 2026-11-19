@@ -51,12 +51,11 @@ Olvera uses two data sources:
 
 ## CRUD Operations
 
-| Method | Functionality |
-|---|---|
-| GET | Fetch products and saved routines |
-| POST | Add products to a routine |
-| PATCH | Update a saved routine |
-| DELETE | Remove products from a routine |
+Method Functionality 
+ GET Fetch products and saved routines 
+POST Add products to a routine 
+PATCH  Update a saved routine
+DELETE Remove products from a routine 
 
 ## React Concepts Used
 
@@ -72,12 +71,11 @@ Olvera uses two data sources:
 
 ## Application Pages
 
-| Page | Route |
-|---|---|
-| Home | / |
-| Products | /products |
-| Product Details | /products/:id |
-| My Routine | /routines |
+Page Route 
+ Home 
+Products products
+Product Details products :id
+ My Routine routines 
 
 ## Installation and Setup
 
@@ -136,4 +134,4 @@ Olvera simplifies skincare discovery and helps users organize their skincare rou
 
 ## License
 
-This project was developed for educational purposes. Olvera is not affiliated with La Roche-Posay.
+This project was developed for educational purposes. Olvera is not affiliated with La Roche-Posay.666666666666666666666666666666666666666666666666666666
