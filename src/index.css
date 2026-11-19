@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-deep-purple: #4B315D;
+	--color-purple: #745388;
+	--color-lavender: #DED3E9;
+	--color-cream: #F9F4EC;
+}
+
+html {
+	scrollbar-gutter: stable;
+}
+
+body {
+	margin: 0;
+	background-color: #F9F4EC;
+}
