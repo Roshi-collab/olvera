@@ -1,18 +1,11 @@
 {
   "routines": [
     {
-      "productId": "3337875526821",
-      "name": "Anthelios Bruneau vitale 50spf",
-      "image": "https://images.openbeautyfacts.org/images/products/333/787/552/6821/front_fr.3.400.jpg",
-      "routine": "Morning",
-      "id": "y8KAdPh-xhE"
-    },
-    {
-      "productId": "3337875878807",
-      "name": "La Roche Posay Effaclar Duo+M",
-      "image": "https://images.openbeautyfacts.org/images/products/333/787/587/8807/front_en.7.400.jpg",
+      "productId": "3337875816779",
+      "name": "La Roche Posay Cicaplast Baume B5+ 15ml",
+      "image": "https://images.openbeautyfacts.org/images/products/333/787/581/6779/front_en.3.400.jpg",
       "routine": "Evening",
-      "id": "rEcIAeO8kRM"
+      "id": "zs_LHFDVwHk"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
