@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+auth-db.json
+auth-db.json.tmp
+.env
+.env.*
