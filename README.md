@@ -1,6 +1,6 @@
 # Olvera Skincare
 
-Olvera is a skincare single-page application (SPA) that helps users discover La Roche-Posay skincare products and create their own morning and evening skincare routines.
+Olvera is a skincare single-page application (SPA) that helps users discover La Roche Posay skincare products and create their own morning and evening skincare routines.
 
 ## Problem Statement
 
@@ -134,4 +134,4 @@ Olvera simplifies skincare discovery and helps users organize their skincare rou
 
 ## License
 
-This project was developed for educational purposes. Olvera is not affiliated with La Roche-Posay.666666666666666666666666666666666666666666666666666666
+This project was developed for educational purposes. Olvera is not affiliated with La Roche-Posay.
